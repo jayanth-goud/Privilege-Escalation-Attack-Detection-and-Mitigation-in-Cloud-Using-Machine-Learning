@@ -1,0 +1,2 @@
+# Privilege-Escalation-Attack-Detection-and-Mitigation-in-Cloud-Using-Machine-Learning
+This project uses ensemble machine learning, specifically LightGBM and CatBoost, to detect privilege escalation attacks in cloud environments. By analyzing user behavior and logs, it identifies malicious insider threats and anomalous activities with high accuracy, providing a robust framework to prevent unauthorized data access.
